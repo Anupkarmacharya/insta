@@ -1,0 +1,16 @@
+{
+  "name": "InstragamApp",
+  "version": "0.0.0",
+  "description": "this is a photo application in instragam",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "success",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.4",
+    "instagram-node": "~0.5.8",
+    "ejs": "~2.4.1"
+  }
+}
